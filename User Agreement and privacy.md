@@ -2,8 +2,8 @@ Terms of Service
 
 Last Updated: September 18, 2026
 
-Welcome to Transformers.
-Transformers is designed to promote environmental sustainability and help users make more environmentally responsible choices.
+Welcome to Hold It.
+Hold It is designed to promote environmental sustainability and help users make more environmentally responsible choices.
 By accessing or using the App, you agree to these Terms of Service.
 1. Use of the App
 You may use the App only for lawful purposes and in accordance with these Terms.
@@ -33,7 +33,7 @@ Privacy Policy
 
 Last Updated: September 18, 2026
 
-At Transformers, we respect your privacy and are committed to protecting your personal information.
+At Hold It, we respect your privacy and are committed to protecting your personal information.
 1. Information We Collect
 We may collect:
 Username or account name;
