@@ -1,6 +1,6 @@
 Terms of Service
 
-Last Updated: September 18, 2026
+Last Updated: September 21, 2026
 
 Welcome to Hold It.
 Hold It is designed to promote environmental sustainability and help users make more environmentally responsible choices.
